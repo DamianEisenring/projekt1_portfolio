@@ -52,14 +52,16 @@ Ich möchte meine bereits vorhandene Portfolio komplett überarbeiten. Ich möch
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 30.08.2024      | Damian Eisenring          | Navigation implementieren             |  2h             |
+| 2.A  | 13.09.2024      | Damian Eisenring          |  Die Pages Home, Schwingen, Informatik, Steckbrief und Kontakt immer fortlaufend abarbeiten            |     15h          |
+| 3.A  | 13.09.2024      | Damian Eisenring          | Login-Funktion implementieren             |    2h           |
+| 4.A  | 18.10.2024      | Damian Eisenring          | Firebase Integration für Speicherung der Daten             |   4h            |
+| 5.A  | 25.10.2024      | Damian Eisenring          | Datenbearbeitung auf Eingeloggte User beschränken.             |     2h          |
+| 6.A  | 1.11.2024      | Damian Eisenring          | Datenbearbeitungsfunktionen hinzufügen Löschen, Hinzufügen und bearbeiten.          |      5h         |
 | ...  |       |           |              |               |
 
-Total: 
+Total: 30h
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
