@@ -4,7 +4,7 @@ Damian Eisenring
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.08.2024 | 0.0.1   | |
+|23.08.2024 | 0.0.1   |Projekt gestartet, I und P abgeschlossen. Navbar, Footer eingefügt, arbeiten an Home |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
