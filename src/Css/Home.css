@@ -1,0 +1,74 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+  }
+  
+
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 30%; 
+    color: black;
+    margin-right: 20px; 
+  }
+  
+  .text-container h1 {
+    margin: 0;  
+  }
+  
+  .text-container h1:first-of-type {
+    font-size: 35px;
+  }
+  #name{
+    color: #336B87; 
+    font-size: 70px;
+  }
+  #beschreibung{
+    font-size: 30px;
+    color: #90AFC5;
+  }
+  
+  .image-container img {
+    max-width: auto ;
+    height: 400px;
+    border-radius: 8px; 
+  }
+  
+  .image-container {
+    display: flex;
+    align-items: center; 
+  }
+
+  @media (max-width: 900px) {
+    .home-container {
+      flex-direction: column; /* Stapelt die Container vertikal bei kleineren Bildschirmen */
+      justify-content: center;
+      height: auto; /* Höhe anpassen, damit der Container nicht die gesamte Höhe einnimmt */
+    }
+    
+    .text-container {
+      max-width: 100%; /* Textbereich nimmt die volle Breite des Containers ein */
+      margin-right: 0; /* Abstand rechts entfernen */
+      text-align: center; /* Text zentrieren */
+      margin-bottom: 20px; /* Abstand unten hinzufügen */
+    }
+    
+    .text-container h1 {
+      font-size: 25px; /* Schriftgröße für kleinere Bildschirme anpassen */
+    }
+    
+    #name {
+      font-size: 50px; /* Kleinere Schriftgröße für den Namen */
+    }
+    
+    #beschreibung {
+      font-size: 20px; /* Kleinere Schriftgröße für die Beschreibung */
+    }
+    
+    .image-container img {
+      height: 300px; /* Bildhöhe bei kleineren Bildschirmen anpassen */
+    }
+  }
