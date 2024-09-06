@@ -19,7 +19,7 @@ Ich möchte meine bereits vorhandene Portfolio komplett überarbeiten. Ich möch
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |1|	Muss|	Funktional|	Als Benutzer möchte ich eine einfache und übersichtliche Navigation, um schnell zwischen den Seiten wechseln zu können.|
-|2|	Muss|	Funktional|	Als Benutzer möchte ich die Seiten Home, Schwingen, Informatik, Steckbrief und Kontakt durchstöbern können.|
+|2|	Muss|	Funktional|	Als Benutzer möchte ich die Unterseiten Home, Schwingen, Informatik, Steckbrief und Kontakt durchstöbern können.|
 |3|	Muss|	Funktional|	Als Benutzer möchte ich mich einloggen können, um meine Daten zu verwalten und zu bearbeiten.|
 |4|	Muss|	Funktional|	Als Benutzer möchte ich, dass meine Daten sicher in Firebase gespeichert werden, um darauf später zugreifen zu können.|
 |5|	Muss|	Funktional|	Als Benutzer möchte ich sicherstellen, dass nur eingeloggte Benutzer die Daten bearbeiten können, um die Datenintegrität zu wahren.|
