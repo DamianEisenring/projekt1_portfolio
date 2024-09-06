@@ -42,6 +42,85 @@
     align-items: center; 
   }
 
+
+.btn {
+  display: inline-block;
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: opacity 0.3s ease;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+.about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 50px 20px;
+  color: #2A3132;
+}
+
+
+/* Titel der Über mich Sektion */
+#about-me-title {
+  font-size: 40px;
+  color: #336B87; /* Dunkelblaue Farbe für den Titel */
+  margin-bottom: 30px;
+}
+
+/* Tabelle für den Steckbrief */
+.about-container table {
+  width: 50%;
+  border-spacing: 15px; /* Abstand zwischen den Zellen */
+}
+
+.about-container td {
+  padding: 10px;
+  font-size: 18px;
+  color: #90AFC5; /* Hellblau für die Informationen */
+  border-bottom: 1px solid #ddd; /* Untere Linie für Trennung */
+}
+
+.about-container td:first-child {
+  font-weight: bold; /* Fettschrift für die Labels */
+  color: #336B87; /* Dunkelblau für die Labels */
+}
+.skills-container {
+  color: white; /* Weißer Text */
+  padding: 50px 20px;
+  text-align: center;
+  
+}
+
+.skills-container h1 {
+  font-size: 35px;
+  color: #336B87; /* Hellblau für den Titel */
+  margin-bottom: 40px;
+}
+
+/* Buttons für die Skills */
+.skills-container .btn {
+  display: inline-block;
+  background-color: #336B87; /* Dunkelblaue Farbe für die Buttons */
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+  margin: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.skills-container .btn:hover {
+  background-color: #90AFC5; /* Hellblau beim Hover */
+}
+
   @media (max-width: 900px) {
     .home-container {
       flex-direction: column; /* Stapelt die Container vertikal bei kleineren Bildschirmen */
@@ -71,4 +150,20 @@
     .image-container img {
       height: 300px; /* Bildhöhe bei kleineren Bildschirmen anpassen */
     }
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .about-container table {
+      width: 100%; /* Tabelle nimmt die volle Breite ein */
+      margin-bottom: 30px;
+    }
+  
+    .about-container img {
+      width: 250px; /* Kleinere Bildgröße auf mobilen Geräten */
+      margin-left: 0; /* Kein linker Abstand */
+    }
   }
+  
+

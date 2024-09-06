@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav>
       <Link to="/" className="logo">
-        <img src="/images/logo.png" alt="Logo" /> 
+        <img src="/images/logo_DamianEisenring.png" alt="Logo" /> 
       </Link>
       <div className="hamburger" onClick={toggleMenu}>
         <div></div>
@@ -21,7 +21,6 @@ const Navbar = () => {
       </div>
       <ul className={menuOpen ? 'active' : ''}>
         <li><Link to="/" onClick={toggleMenu}>Home</Link></li>
-        <li><Link to="/Steckbrief" onClick={toggleMenu}>Steckbrief</Link></li>
         <li><Link to="/Informatik" onClick={toggleMenu}>Informatik</Link></li>
         <li><Link to="/Schwingen" onClick={toggleMenu}>Schwingen</Link></li>
         <li><Link to="/Kontakt" onClick={toggleMenu}>Kontakt</Link></li>
