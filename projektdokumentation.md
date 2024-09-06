@@ -75,12 +75,11 @@ Total: 30h
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 30.09.2024       |  Damian Eisenring         |               |                   |
-| 2.A  |06.09.2024       |     Damian Eisenring         |               |                   |
+| 1.A  | 30.09.2024       |  Damian Eisenring         |    2h           |         2h          |
+| 2.A  |06.09.2024       |     Damian Eisenring  |               |                   |
 | 3.A  |23.09.2024       |           |               |                   |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -90,7 +89,3 @@ Total: 30h
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
 | ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-
