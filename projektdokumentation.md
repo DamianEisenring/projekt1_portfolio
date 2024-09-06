@@ -53,7 +53,11 @@ Ich möchte meine bereits vorhandene Portfolio komplett überarbeiten. Ich möch
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 30.08.2024      | Damian Eisenring          | Navigation implementieren             |  2h             |
-| 2.A  | 13.09.2024      | Damian Eisenring          |  Die Pages Home, Schwingen, Informatik, Steckbrief und Kontakt immer fortlaufend abarbeiten            |     15h          |
+| 2.A  | 13.09.2024      | Damian Eisenring          |  An der Unterseite Home abarbeiten            |     3h          |
+| 2.B  | 13.09.2024      | Damian Eisenring          |  An der Unterseite Schwingen abarbeiten       |     3h          |
+| 2.C  | 13.09.2024      | Damian Eisenring          | An der Unterseite Informatik abarbeiten            |     3h          |
+| 2.D  | 13.09.2024      | Damian Eisenring          | An der Unterseite Steckbrief abarbeiten                 |     3h          |
+| 2.E  | 13.09.2024      | Damian Eisenring          | An der Unterseite Kontakt abarbeiten              |     3h          |
 | 3.A  | 13.09.2024      | Damian Eisenring          | Login-Funktion implementieren             |    2h           |
 | 4.A  | 18.10.2024      | Damian Eisenring          | Firebase Integration für Speicherung der Daten             |   4h            |
 | 5.A  | 25.10.2024      | Damian Eisenring          | Datenbearbeitung auf Eingeloggte User beschränken.             |     2h          |
@@ -71,7 +75,9 @@ Total: 30h
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 30.09.2024       |  Damian Eisenring         |               |                   |
+| 2.A  |06.09.2024       |     Damian Eisenring         |               |                   |
+| 3.A  |23.09.2024       |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
