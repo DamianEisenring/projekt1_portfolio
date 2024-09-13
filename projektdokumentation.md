@@ -56,9 +56,9 @@ Ich möchte meine bereits vorhandene Portfolio komplett überarbeiten. Ich möch
 | 2.A  | 13.09.2024      | Damian Eisenring          |  An der Unterseite Home abarbeiten            |     3h          |
 | 2.B  | 13.09.2024      | Damian Eisenring          |  An der Unterseite Schwingen abarbeiten       |     3h          |
 | 2.C  | 13.09.2024      | Damian Eisenring          | An der Unterseite Informatik abarbeiten            |     3h          |
-| 2.D  | 13.09.2024      | Damian Eisenring          | An der Unterseite Steckbrief abarbeiten                 |     3h          |
-| 2.E  | 13.09.2024      | Damian Eisenring          | An der Unterseite Kontakt abarbeiten              |     3h          |
-| 3.A  | 13.09.2024      | Damian Eisenring          | Login-Funktion implementieren             |    2h           |
+| 2.D  | 18.10.2024      | Damian Eisenring          | An der Unterseite Steckbrief abarbeiten                 |     3h          |
+| 2.E  | 18.10.2024      | Damian Eisenring          | An der Unterseite Kontakt abarbeiten              |     3h          |
+| 3.A  | 18.10.2024      | Damian Eisenring          | Login-Funktion implementieren             |    2h           |
 | 4.A  | 18.10.2024      | Damian Eisenring          | Firebase Integration für Speicherung der Daten             |   4h            |
 | 5.A  | 25.10.2024      | Damian Eisenring          | Datenbearbeitung auf Eingeloggte User beschränken.             |     2h          |
 | 6.A  | 1.11.2024      | Damian Eisenring          | Datenbearbeitungsfunktionen hinzufügen Löschen, Hinzufügen und bearbeiten.          |      5h         |
