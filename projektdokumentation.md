@@ -59,9 +59,9 @@ Ich möchte meine bereits vorhandene Portfolio komplett überarbeiten. Ich möch
 | 2.D  | 18.10.2024      | Damian Eisenring          | An der Unterseite Steckbrief abarbeiten                 |     3h          |
 | 2.E  | 18.10.2024      | Damian Eisenring          | An der Unterseite Kontakt abarbeiten              |     3h          |
 | 3.A  | 18.10.2024      | Damian Eisenring          | Login-Funktion implementieren             |    2h           |
-| 4.A  | 18.10.2024      | Damian Eisenring          | Firebase Integration für Speicherung der Daten             |   4h            |
+| 4.A  | 25.10.2024      | Damian Eisenring          | Firebase Integration für Speicherung der Daten             |   4h            |
 | 5.A  | 25.10.2024      | Damian Eisenring          | Datenbearbeitung auf Eingeloggte User beschränken.             |     2h          |
-| 6.A  | 1.11.2024      | Damian Eisenring          | Datenbearbeitungsfunktionen hinzufügen Löschen, Hinzufügen und bearbeiten.          |      5h         |
+| 6.A  | 25.10.2024      | Damian Eisenring          | Datenbearbeitungsfunktionen hinzufügen Löschen, Hinzufügen und bearbeiten.          |      5h         |
 | ...  |       |           |              |               |
 
 Total: 30h
@@ -69,7 +69,7 @@ Total: 30h
 
 ## 3 Entscheiden
 
-Ich habe mich entschieden die Unterseite Steckbrief nicht zu machen und den Steckbrief auf die Homeseite verschieben.
+Ich habe mich entschieden die Unterseiten wegzulassen und ein One Pager zu machen und dort die themen anzusprechen.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
